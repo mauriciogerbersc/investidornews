@@ -1,4 +1,4 @@
-# investidornews
+# news
 
 1. baixar repositório
 2. dentro do src do projeto:
